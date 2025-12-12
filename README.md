@@ -25,11 +25,11 @@ This is a simple car racing game developed using Python's PyGame library.The goa
 2. Control the player car using LEFT or RIGHT Arrow keys to move the player car left or right respectively.
 3. Score is updated for every obstacle car that you manage to dodge.
 4. Speed of the game increases as score crosses a multiple of 5, making the challenge harder.
-5. When the player car collides with an obsctacle car, the game ends and prompts the user to play again by pressing Y  or N to exit.
+5. When the player car collides with an obstacle car, the game ends and prompts the user to play again by pressing Y  or N to exit.
 
 ## Features
 - Smooth car movement
-- Increasing difficulty
+- Increasing difficulty as speed increases with score
 - Real-time score update
 - Game over & restart option
 - Clean and intuitive controls
