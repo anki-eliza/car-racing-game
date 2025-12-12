@@ -16,8 +16,8 @@ This is a simple car racing game developed using Python's PyGame library.The goa
 
 ### 4.Game Over
 - If you collide with an obstacle, the game ends.
-- Press Y → Play again
-- Press N → Exit
+- Press Y: Play again
+- Press N: Exit
 
 
 ## Instructions to play the game:
@@ -26,3 +26,14 @@ This is a simple car racing game developed using Python's PyGame library.The goa
 3. Score is updated for every obstacle car that you manage to dodge.
 4. Speed of the game increases as score crosses a multiple of 5, making the challenge harder.
 5. When the player car collides with an obsctacle car, the game ends and prompts the user to play again by pressing Y  or N to exit.
+
+## Features
+- Smooth car movement
+- Increasing difficulty
+- Real-time score update
+- Game over & restart option
+- Clean and intuitive controls
+  
+## Requirements
+- Python 3.x
+- PyGame library
